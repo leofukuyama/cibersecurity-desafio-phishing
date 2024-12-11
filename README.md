@@ -16,6 +16,6 @@
 - Obtendo o endereço da máquina: ``` ifconfig ``` * Pressionar ENTER caso o IP esteja correto *
 - URL para clone: http://www.facebook.com
 
-### Resutados
+### Resultados
 
 ![Alt text](./passwd.png "Optional title")
